@@ -11,7 +11,7 @@ When I first started exploring open source, I often found myself asking:
 
 OSS Mentor AI tries to answer those questions by combining GitHub repository analysis with AI-generated guidance.
 
-⸻
+______________________________________________________________________________________________________________________________________________
 
 💡 What It Does
 
@@ -27,7 +27,7 @@ The application will:
 * Create a contribution roadmap
 * Recommend a suitable first contribution
 
-⸻
+______________________________________________________________________________________________________________________________________________
 
 ✨ Features
 
@@ -61,7 +61,7 @@ Open Source Discovery
 * README preview
 * Contributor insights
 
-⸻
+______________________________________________________________________________________________________________________________________________
 
 🛠️ Tech Stack
 
@@ -73,8 +73,7 @@ Open Source Discovery
 * Requests
 * Python Dotenv
 
-⸻
-
+______________________________________________________________________________________________________________________________________________
 ⚙️ How It Works
 
 1. Enter a GitHub repository URL.
@@ -84,7 +83,7 @@ Open Source Discovery
 5. Gemini AI generates insights and recommendations.
 6. You receive a personalized roadmap to start contributing.
 
-⸻
+______________________________________________________________________________________________________________________________________________
 
 🚀 Running Locally
 
@@ -110,7 +109,7 @@ Run the app:
 
 streamlit run app.py
 
-⸻
+______________________________________________________________________________________________________________________________________________
 
 🎯 Why I Built This
 
@@ -118,7 +117,7 @@ As a student trying to get involved in open source, I realized that finding the 
 
 This project was built to help developers spend less time searching and more time building.
 
-⸻
+______________________________________________________________________________________________________________________________________________
 
 🔮 Future Improvements
 
@@ -128,8 +127,7 @@ This project was built to help developers spend less time searching and more tim
 * Better issue recommendation system
 * Contribution tracking dashboard
 
-⸻
-
+______________________________________________________________________________________________________________________________________________
 👩‍💻 About Me
 
 I’m Akanksha, a Computer Science Engineering student who enjoys building projects with AI, developer tools, and automation.
